@@ -11,6 +11,11 @@ Artificial Intelligence Assignment ( Y2S3 )
 # Job to done 
 ( )  Web crawling
 
+## For further development
+( )  Export Conversation 
+( )  Multi layer analysis
+( )  By using account record user personality setting
+
 # Resource 
 ## Dataset 
 1. [Top 10 Sentiment Analysis Datasets](read://https_www.analyticsvidhya.com/?url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2023%2F12%2Ftop-sentiment-analysis-datasets%2F)
