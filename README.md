@@ -12,9 +12,9 @@ Artificial Intelligence Assignment ( Y2S3 )
 ( )  Web crawling
 
 ## For further development
-( )  Export Conversation 
-( )  Multi layer analysis
-( )  By using account record user personality setting
+( )  Export Conversation <br/>
+( )  Multi layer analysis <br/>
+( )  By using account record user personality setting<br/>
 
 # Resource 
 ## Dataset 
