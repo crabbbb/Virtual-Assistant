@@ -22,15 +22,15 @@ Artificial Intelligence Assignment ( Y2S3 )
 # Resource 
 ## Dataset 
 1. [Top 10 Sentiment Analysis Datasets](read://https_www.analyticsvidhya.com/?url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2023%2F12%2Ftop-sentiment-analysis-datasets%2F)
-2. [Social Media Sentiments Analysis Dataset - Kaggle](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset) ✅
+2. [Social Media Sentiments Analysis Dataset - Kaggle](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset) 
 3. [Stanford sentiment treebank](https://nlp.stanford.edu/sentiment/treebank.html)
     * data collect from movie review website
-4. [Yelp](https://www.yelp.com/dataset) 
+4. [Yelp](https://www.yelp.com/dataset) ✅
     * about business ranking 
     * Blog : [Link](https://medium.com/analytics-vidhya/sentiment-classification-of-yelp-data-293f401c3656)
 
 ## Speech to text 
-### [SpeechRecognition 3.10.3](https://pypi.org/project/SpeechRecognition/)
+### [SpeechRecognition 3.10.3](https://pypi.org/project/SpeechRecognition/) ✅
 ```
 pip install SpeechRecognition
 ```
@@ -60,12 +60,12 @@ pip install gTTS
 * Generate Sentiments voice
 * Author Channel : [Link](https://space.bilibili.com/5760446/?spm_id_from=333.999.0.0)
 
-### [OpenVoice](https://github.com/myshell-ai/OpenVoice) 
+### [OpenVoice](https://github.com/myshell-ai/OpenVoice) ✅
 * Generate Sentiments voice
 * Youtube : [Link](https://www.youtube.com/watch?v=0k8wUfU7n4Q&ab_channel=AllAboutAI)
 
 ## AI Model 
-### [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)
+### [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) ✅
 
 
 # Command for install and uninstall package
