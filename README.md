@@ -3,6 +3,7 @@ Artificial Intelligence Assignment ( Y2S3 )
 
 * [How to use Jupyter NoteBook at GitHub](https://saturncloud.io/blog/how-to-add-jupyter-notebook-to-github/)
 * [Markdown Syntax Reference](https://www.markdownguide.org/basic-syntax/)
+* [Streamlit](https://streamlit.io/)
 
 # Document 
 * [Assigment Report](https://docs.google.com/document/d/1Jjv1CIzJ7_E1730IRWb57chUXFgt-zif/edit?usp=sharing&ouid=110582878946006891487&rtpof=true&sd=true)
@@ -10,6 +11,8 @@ Artificial Intelligence Assignment ( Y2S3 )
 
 # Job to done 
 ( )  Web crawling
+   * Reference :
+     1. [Web Crawler in Python: Step-by-Step Tutorial 2024](https://www.zenrows.com/blog/web-crawler-python#initial-crawling-script)
 
 ## For further development
 ( )  Export Conversation <br/>
