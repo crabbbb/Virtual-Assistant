@@ -17,8 +17,8 @@ Artificial Intelligence Assignment ( Y2S3 )
 ## For further development
 ( )  Export Conversation <br/>
 ( )  Multi layer analysis <br/>
-( )  By using account record user personality setting<br/>
-( )  [Countdown Timer](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/)
+( )  By using account record user personality setting <br/>
+( )  [Countdown Timer](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) <br/>
 ( )  Voice wake up
 # Resource 
 ## Dataset 
