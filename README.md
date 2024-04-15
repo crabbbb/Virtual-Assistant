@@ -68,6 +68,9 @@ pip install gTTS
 ## AI Model 
 ### [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) ✅
 
+## Locally Run LLM 
+### [Ollama](https://ollama.com/download/windows)
+### [LM Studio](https://lmstudio.ai/)
 
 # Command for install and uninstall package
 ```
