@@ -15,7 +15,7 @@ Artificial Intelligence Assignment ( Y2S3 )
      1. [Web Crawler in Python: Step-by-Step Tutorial 2024](https://www.zenrows.com/blog/web-crawler-python#initial-crawling-script)
 
 ## For further development
-( )  Export Conversation <br/>
+(✅)  Export Conversation <br/>
 ( )  Multi layer analysis <br/>
 ( )  By using account record user personality setting <br/>
 ( )  [Countdown Timer](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) <br/>
